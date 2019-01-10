@@ -61,7 +61,7 @@ Todos acharam uma boa ideia. Os requisitos do MVP do projeto "Curadoria de filme
 
 ## Curadoria de filmes. Requisitos do MVP.
 
- <img align="left" height="450" src="https://raw.githubusercontent.com/vivadecora/projeto-frontend-vivadecora-nao-fazer-fork/master/screenshots-readme/screenshot-mobile.png?raw=true">
+ <img align="left" height="450" src="https://raw.githubusercontent.com/vivadecora/projeto-front-end-vivadecora-nao-fazer-fork/master/screenshots-readme/screenshot-mobile.png?raw=true">
 
 * Apenas código front-end será escrito para esse projeto: html5, css e javascript.
 * Será usada a [API versão 4 de filmes do The Movies Database](https://developers.themoviedb.org/4)
