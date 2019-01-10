@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en" ng-app="curadoria">
+<head>
+    <meta charset="UTF-8">
+    <title>Curadoria de filmes</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/angular.js/1.5.8/angular.min.js"></script>
+    <script src="src/componentes/ajax/ajax.module.js" type="text/javascript"></script>
+    <script src="src/componentes/ajax/ajax.model.js" type="text/javascript"></script>
+    <script>
+        (function(){
+            "use strict";
+            //TODO: Criar um arquivo próprio para esse módulo principal
+            angular.module("curadoria", ["curadoria.componentes.ajax-model"]);
+        })();
+    </script>
+</head>
+<body>
+</body>
+</html>
