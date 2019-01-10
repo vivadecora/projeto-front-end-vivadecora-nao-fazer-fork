@@ -6,23 +6,23 @@
 
 Esse é um repositório com as regras para criação do projeto para vaga de desenvolvedor(a) front-end no Viva Decora. 
 
-A vaga está aberta e é **para trabalho presencial no Viva Decora, localizado em São Paulo no bairro da Consolação.**
+A vaga está aberta e é **para trabalho presencial no Viva Decora, localizado em São Paulo no bairro do Jardim Paulista.**
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/vivadecora/projeto-frontend-vivadecora-nao-fazer-fork/master/screenshots-readme/screenshot-desktop-inicial.png?raw=true">
+<img src="https://raw.githubusercontent.com/vivadecora/projeto-front-end-vivadecora-nao-fazer-fork/master/screenshots-readme/screenshot-desktop-inicial.png?raw=true">
 </p>
 
 ## Tabela de conteúdos
 
-* [Instruções para entrega do projeto](https://github.com/vivadecora/projeto-frontend-vivadecora-nao-fazer-fork#warning-instruções-para-entrega-do-projeto)
-* [Sobre o Viva Decora](https://github.com/vivadecora/projeto-frontend-vivadecora-nao-fazer-fork#sobre-o-viva-decora)
-* [Sobre o projeto: Curadoria de filmes.](https://github.com/vivadecora/projeto-frontend-vivadecora-nao-fazer-fork#sobre-o-projeto-curadoria-de-filmes)
-* [Curadoria de filmes. Requisitos do MVP.](https://github.com/vivadecora/projeto-frontend-vivadecora-nao-fazer-fork#curadoria-de-filmes-requisitos-do-mvp)
-* [Design do projeto](https://github.com/vivadecora/projeto-frontend-vivadecora-nao-fazer-fork#design-do-projeto)
-* [Implementação inicial opcional](https://github.com/vivadecora/projeto-frontend-vivadecora-nao-fazer-fork#implementação-inicial-opcional)
-* [Critérios de avaliação](https://github.com/vivadecora/projeto-frontend-vivadecora-nao-fazer-fork#critérios-de-avaliação)
-* [Pontos extras](https://github.com/vivadecora/projeto-frontend-vivadecora-nao-fazer-fork#pontos-extras)
+* [Instruções para entrega do projeto](https://github.com/vivadecora/projeto-front-end-vivadecora-nao-fazer-fork/#warning-instruções-para-entrega-do-projeto)
+* [Sobre o Viva Decora](https://github.com/vivadecora/projeto-front-end-vivadecora-nao-fazer-fork/#sobre-o-viva-decora)
+* [Sobre o projeto: Curadoria de filmes.](https://github.com/vivadecora/projeto-front-end-vivadecora-nao-fazer-fork/#sobre-o-projeto-curadoria-de-filmes)
+* [Curadoria de filmes. Requisitos do MVP.](https://github.com/vivadecora/projeto-front-end-vivadecora-nao-fazer-fork/#curadoria-de-filmes-requisitos-do-mvp)
+* [Design do projeto](https://github.com/vivadecora/projeto-front-end-vivadecora-nao-fazer-fork/#design-do-projeto)
+* [Implementação inicial opcional](https://github.com/vivadecora/projeto-front-end-vivadecora-nao-fazer-fork/#implementação-inicial-opcional)
+* [Critérios de avaliação](https://github.com/vivadecora/projeto-front-end-vivadecora-nao-fazer-fork/#critérios-de-avaliação)
+* [Pontos extras](https://github.com/vivadecora/projeto-front-end-vivadecora-nao-fazer-fork/#pontos-extras)
 
 ## :warning: Instruções para entrega do projeto 
 
@@ -31,7 +31,7 @@ A vaga está aberta e é **para trabalho presencial no Viva Decora, localizado e
 * **Não faça um fork desse projeto.** Projetos forkeados sofrerão penalização na classificação.
 * Crie um README com instruções claras sobre como executar seu projeto.
 * Envie um email com o link para seu código para "jose.maciel [arroba] vivadecora.com.br "
-* Dúvidas sobre esse projeto podem ser perguntadas nas [issues](https://github.com/vivadecora/projeto-frontend-vivadecora-nao-fazer-fork/issues)
+* Dúvidas sobre esse projeto podem ser perguntadas nas [issues](https://github.com/vivadecora/projeto-front-end-vivadecora-nao-fazer-fork//issues)
 
 ## Sobre o Viva Decora:
 
@@ -109,7 +109,7 @@ Todos acharam uma boa ideia. Os requisitos do MVP do projeto "Curadoria de filme
 
 ## Design do projeto
 <p align="center">
-<img src="https://github.com/vivadecora/projeto-frontend-vivadecora-nao-fazer-fork/blob/master/screenshots-readme/screenshot-desktop-modal.png?raw=true"></p>
+<img src="https://github.com/vivadecora/projeto-front-end-vivadecora-nao-fazer-fork//blob/master/screenshots-readme/screenshot-desktop-modal.png?raw=true"></p>
 
 As telas do filmes estão no Marvel. Você pode verifica-las nos seguintes links:
 
@@ -142,11 +142,11 @@ As telas do filmes estão no Marvel. Você pode verifica-las nos seguintes links
 
 ### Assets
 
-[Confira aqui no repositório os assets desse projeto](https://github.com/vivadecora/projeto-frontend-vivadecora-nao-fazer-fork/tree/master/assets)
+[Confira aqui no repositório os assets desse projeto](https://github.com/vivadecora/projeto-front-end-vivadecora-nao-fazer-fork//tree/master/assets)
 
 ## Implementação inicial opcional
 
-* O desenvolvedor [@teles](https://github.com/teles) [começou parte do projeto nesse repositório e se quiser você pode continuar seu projeto a partir desse código](https://github.com/vivadecora/projeto-frontend-vivadecora-nao-fazer-fork/tree/master/curadoria). 
+* O desenvolvedor [@teles](https://github.com/teles) [começou parte do projeto nesse repositório e se quiser você pode continuar seu projeto a partir desse código](https://github.com/vivadecora/projeto-front-end-vivadecora-nao-fazer-fork//tree/master/curadoria). 
 
 **IMPORTANTE**: Usar a implementação desses recursos não é imprescindível e não vale pontos extras.
 
