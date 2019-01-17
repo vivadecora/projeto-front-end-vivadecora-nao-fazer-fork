@@ -115,20 +115,20 @@ As telas do filmes estão no Marvel. Você pode verifica-las nos seguintes links
 
 
 ### Mobile
-* [Filmes não curados](https://marvelapp.com/255gaff/screen/29558499)
-* [Modal de sinopse](https://marvelapp.com/255gaff/screen/29558496)
-* [Menu aberto](https://marvelapp.com/255gaff/screen/29558498)
-* [Filmes curtidos](https://marvelapp.com/255gaff/screen/29558497)
-* [Filmes não curtidos](https://marvelapp.com/255gaff/screen/29558501)
+* [Filmes não curados](https://marvelapp.com/aghih54/screen/52494084)
+* [Modal de sinopse](https://marvelapp.com/aghih54/screen/52494086)
+* [Menu aberto](https://marvelapp.com/aghih54/screen/52494085)
+* [Filmes curtidos](https://marvelapp.com/aghih54/screen/52494082)
+* [Filmes não curtidos](https://marvelapp.com/aghih54/screen/52494083)
 
 ### Desktop 
 
-* [Filmes não curados](https://marvelapp.com/4abc9c6/screen/29557679)
-* [Filmes curtidos. Estado vazio](https://marvelapp.com/4abc9c6/screen/29557683)
-* [Filmes não curtidos. Estado vazio](https://marvelapp.com/4abc9c6/screen/29557685)
-* [Filmes curtidos](https://marvelapp.com/4abc9c6/screen/29557681)
-* [Filmes não curtidos](https://marvelapp.com/4abc9c6/screen/29557684)
-* [Modal de sinopse](https://marvelapp.com/4abc9c6/screen/29557680)
+* [Filmes não curados](https://marvelapp.com/aghih54/screen/52493819)
+* [Filmes curtidos. Estado vazio](https://marvelapp.com/aghih54/screen/52493820)
+* [Filmes não curtidos. Estado vazio](https://marvelapp.com/aghih54/screen/52493822)
+* [Filmes curtidos](https://marvelapp.com/aghih54/screen/52493823)
+* [Filmes não curtidos](https://marvelapp.com/aghih54/screen/52493824)
+* [Modal de sinopse](https://marvelapp.com/aghih54/screen/52493818)
 
 ### Especificações de design
 
