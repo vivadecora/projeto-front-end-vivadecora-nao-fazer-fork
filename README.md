@@ -37,13 +37,15 @@ A vaga está aberta e é **para trabalho presencial no Viva Decora, localizado e
 
 O Viva Decora é uma empresa fundada em 2014, partiu  da necessidade de completar o ciclo do consumidor de móveis online.  
 
-O Viva Decora iniciou as atividades com o apoio da estrutura de back-office do VivaReal e depois ganhou equipes independentes de marketing B2B e B2C, operações, produto e engenharia, atualmente com 20 profissionais.  
+O Viva Decora iniciou as atividades com o apoio da estrutura de back-office do VivaReal e depois ganhou equipes independentes de marketing B2B e B2C, operações, produto e engenharia, atualmente com 30 profissionais.  
 
-Nossa plataforma de arquitetura e decoração online é voltada para ajudar os usuários a criar e comprar móveis e objetos para ambientes, baseado em recomendações e inspirações de diferentes arquitetos e designers. Temos mais de 1,5 milhão de visitas por mês  em nosso site e aplicativos e mais de 3 mil profissionais cadastrados. 
+Nossa plataforma de arquitetura e decoração online é voltada para ajudar os usuários a criar e comprar móveis e objetos para ambientes, baseado em recomendações e inspirações de diferentes arquitetos e designers. Temos mais de 5 milhões de visitas por mês  em nosso site e aplicativos e mais de 3 mil profissionais cadastrados. 
 
 O Viva Decora quer ajudar o consumidor em três fases distintas: inspiração, informação e compra. 
 
 **Em Dezembro de 2017 recebemos investimento do Grupo Duratex, para expandir nossas operações e nos consolidarmos como o maior marketplace de Decoração do Brasil**.
+
+**Em Maio de 2019 a Viva Decora lançou seu marketplace de decoração e reforma com mais de 2 mil categorias diferentes de produtos.**
 
 ## Sobre o projeto: Curadoria de filmes.
 
