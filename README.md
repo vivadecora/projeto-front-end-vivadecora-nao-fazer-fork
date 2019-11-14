@@ -2,7 +2,7 @@
 
 ## Projeto de teste para vaga de desenvolvedor front-end no Viva Decora
 
-> :warning: **Processo aberto no momento**: o processo seletivo para desenvolvedor front-end do Viva Decora está aberto. 
+> :warning: **Processo aberto no momento**: o processo seletivo para *front-end developer* do Viva Decora está aberto. 
 
 Esse é um repositório com as regras para criação do projeto para vaga de desenvolvedor(a) front-end no Viva Decora. 
 
